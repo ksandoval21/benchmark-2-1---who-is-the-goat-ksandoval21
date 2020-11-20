@@ -1,0 +1,88 @@
+html{
+    font-size: 20px;
+    background-image: url('https://media.allure.com/photos/5e46c3995993fc0009700fc4/1:1/w_1986,h_1986,c_limit/clouds.jpg');
+}
+h1 {
+    text-align: center;
+    font-size: 50px;
+    background: rgb(184, 111, 111);
+    box-shadow: 0 10px 20px pink;
+
+}
+div {
+    text-align: center;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 0;
+    position: relative;
+    left: 70px;
+    top: 200px;
+  }
+#second-box{
+    text-align: center;
+    width: 320px;
+    padding: 10px;
+    border: 5px solid black;
+    margin: 0;
+    position: relative;
+    left: 70px;
+    top: -10px;
+}
+#image1 {
+    width: 500px;
+    height: 500px;
+    position: relative;
+    left: 600px;
+    bottom: 150px;
+}
+#image2 {
+    width: 250px;
+    height: 300px;
+    position: relative;
+    left: 500px;
+    bottom: 225px;
+    border: 19px solid rgb(184, 111, 111);
+}
+#link-box {
+    position: relative;
+    left: 850px;
+    top: -500px;
+}
+#image3 {
+    position: relative;
+    left:270px;
+    top: -320px;
+}
+.quotes {
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    background: rgb(184, 111, 111);
+    padding: 12px;
+    box-shadow: 0 10px 20px pink;
+    position: relative;
+    top: -150px;
+}
+#quotes {
+    font-size: 25px;
+    text-align: center;
+    color: black;
+    background: rgb(184, 111, 111);
+    padding: 12px;
+    box-shadow: 0 10px 20px pink;
+    position: relative;
+    top: -350px;
+}
+.socials {
+    font-size: 30px;
+    position: relative;
+    top: -100px;
+}
+#image4 {
+    width: 500px;
+    position: relative;
+    left: 500px;
+    top: -300px;
+}
+
