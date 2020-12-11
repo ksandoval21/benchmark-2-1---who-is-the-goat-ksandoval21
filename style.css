@@ -101,12 +101,16 @@ div {
             font-size: 140%;
         }
 
-        #content {
+        #second-box {
             float: none;
-            width: 100%;
+            width: auto;
         }
 
-        #navigation {
+        #image1 {
+            float:none;
+            width: auto;
+        }
+        #image4 {
             float:none;
             width: auto;
         }
