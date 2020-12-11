@@ -129,14 +129,17 @@ div {
         #second-box{
             flex: 1 1 150px;
             margin: 5px;
+            display: flex;
         }
         #image2 {
             flex: 1 1 150px;  
               margin: 5px;
+              display: flex;
         }
         #link-box {
             flex: 1 1 150px;
             margin: 5px;
+            display: flex;
         }
     }
 
