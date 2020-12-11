@@ -144,7 +144,7 @@ div {
             display: flex;
         }
         .text-size {
-            font-size: 25px;
+            font-size: 35px;
         }
     }
 
@@ -198,6 +198,6 @@ div {
             font-size: 20px;
         }
         .text-size {
-            font-size: 35px;
+            font-size: 40px;
         }
     }
