@@ -190,16 +190,25 @@ div {
             flex: 1 1 200px;
             margin: 5px;
             width: 400px;
+            flex-wrap: wrap;
+            justify-content: center;
+        
         }
         #image2 {
             flex: 1 1 200px;  
             margin: 5px;
+            flex-wrap: wrap;
+            justify-content: center;
+        
         }
         #link-box {
             flex: 1 1 200px;
             margin: 5px;
             position: relative;
             right: 100px;
+            flex-wrap: wrap;
+            justify-content: center;
+        
         }
         .text-size {
             font-size: 35px;
