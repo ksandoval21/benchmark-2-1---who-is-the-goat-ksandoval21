@@ -110,7 +110,7 @@ div {
             display: grid;
             place-items: center;
         }
-        p {
+        div p {
             margin: 0px;
             padding: 0px;
             font-size: 1.15rem;
