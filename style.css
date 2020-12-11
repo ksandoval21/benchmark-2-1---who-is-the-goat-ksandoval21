@@ -99,8 +99,8 @@ div {
 
         #second-box {
             font-size: 140%;
-            height: 93px
-            position: auto;
+            height: 93px;
+            position: relative;
         }
 
         #second-box {
