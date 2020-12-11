@@ -179,6 +179,7 @@ div {
             display: grid;
             position: relative;
             top: 100px;
+            left: 300px; 
             
         }
         #image4 {
