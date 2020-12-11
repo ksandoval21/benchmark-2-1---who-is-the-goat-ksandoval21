@@ -156,14 +156,14 @@ div {
 
         div#header {
             background-image: url('https://media.allure.com/photos/5e46c3995993fc0009700fc4/1:1/w_1986,h_1986,c_limit/clouds.jpg');;
-            height: 50px;
+            height: 60px;
             display: grid;
             place-items: center;
         }
         p {
             margin: 0px;
             padding: 0px;
-            font-size: 1.15rem;
+            font-size: 2rem;
             font-size: 20px;
         }
 
@@ -178,16 +178,16 @@ div {
             width: auto;
         }
         #second-box{
-            flex: 1 1 150px;
+            flex: 1 1 200px;
             margin: 5px;
             font-size: 20px;
         }
         #image2 {
-            flex: 1 1 150px;  
+            flex: 1 1 200px;  
               margin: 5px;
         }
         #link-box {
-            flex: 1 1 150px;
+            flex: 1 1 200px;
             margin: 5px;
             font-size: 20px;
         }
