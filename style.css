@@ -161,6 +161,7 @@ div {
             margin: 0px;
             padding: 0px;
             font-size: 1.15rem;
+            font-size: 20px;
         }
 
         #image1 {
@@ -176,6 +177,7 @@ div {
         #second-box{
             flex: 1 1 150px;
             margin: 5px;
+            font-size: 20px;
         }
         #image2 {
             flex: 1 1 150px;  
@@ -184,5 +186,6 @@ div {
         #link-box {
             flex: 1 1 150px;
             margin: 5px;
+            font-size: 20px;
         }
     }
