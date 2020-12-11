@@ -89,36 +89,43 @@ div {
 @media only screen and (max-device-width: 480px) {
         div {
             width: 400px;
+            display: grid;
+            place-items: center;
         }
 
         div#header {
             background-image: url('https://media.allure.com/photos/5e46c3995993fc0009700fc4/1:1/w_1986,h_1986,c_limit/clouds.jpg');;
             height: 93px;
-            position: relative;
+            display: grid;
+            place-items: center;
         }
         p {
             margin: 0px;
             padding: 0px;
             font-size: 1.15rem;
         }
-        #second-box {
-            font-size: 140%;
-            height: auto;
-            position: relative;
-        }
-
-        #second-box {
-            float: none;
-            width: auto;
-        }
 
         #image1 {
             float:none;
             width: auto;
+            display: grid;
+            place-items: center;
         }
         #image4 {
             float:none;
             width: auto;
+        }
+        #second-box{
+            flex: 1 1 150px;
+            margin: 5px;
+        }
+        #image2 {
+            flex: 1 1 150px;  
+              margin: 5px;
+        }
+        #link-box {
+            flex: 1 1 150px;
+            margin: 5px;
         }
     }
 
