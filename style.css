@@ -194,7 +194,6 @@ div {
         #image2 {
             flex: 1 1 200px;  
             margin: 5px;
-            position: relative;
         }
         #link-box {
             flex: 1 1 200px;
