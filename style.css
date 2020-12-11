@@ -178,7 +178,7 @@ div {
             width: auto;
             display: grid;
             position: relative;
-            left: 500px; 
+            right: 500px; 
             bottom: 100px; 
             
         }
