@@ -93,8 +93,11 @@ div {
     left: 500px;
     top: -300px;
 }
-/* Small Screen */
+/* Medium Screen */
 @media only screen and (max-device-width: 480px) {
+        h1 {
+            padding: auto;
+        }
         div {
             width: 400px;
             display: grid;
@@ -137,4 +140,5 @@ div {
         }
     }
 
-/* medium screen */
+/* Small screen */
+@media only screen and (max-device-width: 600px) {
