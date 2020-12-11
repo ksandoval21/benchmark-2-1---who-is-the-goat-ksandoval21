@@ -1,3 +1,4 @@
+/* Good for large screens! */
 html{
     font-size: 20px;
     background-image: url('https://media.allure.com/photos/5e46c3995993fc0009700fc4/1:1/w_1986,h_1986,c_limit/clouds.jpg');
@@ -32,7 +33,7 @@ div {
     width: 500px;
     height: 500px;
     position: relative;
-    left: 600px;
+    left: 400px;
     bottom: 150px;
 }
 #image2 {
@@ -117,3 +118,4 @@ div {
         }
     }
 
+/* medium screen */
