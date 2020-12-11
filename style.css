@@ -174,9 +174,7 @@ div {
         }
 
         #image1 {
-            float:none;
             width: auto;
-            display: grid;
             position: relative;
             left: 200px; 
             bottom: 200px; 
