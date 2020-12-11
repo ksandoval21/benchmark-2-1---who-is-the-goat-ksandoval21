@@ -96,7 +96,11 @@ div {
             height: 93px;
             position: relative;
         }
-
+        p {
+            margin: 0px;
+            padding: 0px;
+            font-size: 1.15rem;
+        }
         #second-box {
             font-size: 140%;
             height: auto;
