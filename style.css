@@ -177,7 +177,7 @@ div {
         }
         #image4 {
             float:none;
-            width: auto;
+            width: 200px;
         }
         #second-box{
             flex: 1 1 200px;
@@ -186,7 +186,7 @@ div {
         }
         #image2 {
             flex: 1 1 200px;  
-              margin: 5px;
+            margin: 5px;
         }
         #link-box {
             flex: 1 1 200px;
