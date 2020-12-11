@@ -131,9 +131,7 @@ div {
         #second-box{
             padding: 3%;
             flex: 1 1 150px;
-            margin: 5px;
             width: 500px;
-            flex-wrap: wrap;
             place-items: center;
         }
         #image2 {
