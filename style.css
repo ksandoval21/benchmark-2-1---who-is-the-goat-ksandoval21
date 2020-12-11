@@ -142,6 +142,7 @@ div {
             flex: 1 1 150px;
             margin: 5px;
             display: flex;
+            padding: 5%;
         }
         .text-size {
             font-size: 35px;
