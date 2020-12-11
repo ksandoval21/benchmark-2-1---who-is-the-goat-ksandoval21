@@ -19,7 +19,7 @@ div {
      left: 70px;
     top: 200px; 
   }
- #second-box{
+#second-box{
     text-align: center;
     width: 320px;
     padding: 10px;
@@ -87,7 +87,7 @@ div {
 }
 /* Small Screen */
 @media only screen and (max-device-width: 480px) {
-        div#wrapper {
+        div {
             width: 400px;
         }
 
@@ -97,8 +97,10 @@ div {
             position: relative;
         }
 
-        div#header p {
+        #second-box {
             font-size: 140%;
+            height: 93px
+            position: auto;
         }
 
         #second-box {
