@@ -178,8 +178,8 @@ div {
             width: auto;
             display: grid;
             position: relative;
-            top: 100px;
-            left: 300px; 
+            top: -50px;
+            left: 350px; 
             
         }
         #image4 {
