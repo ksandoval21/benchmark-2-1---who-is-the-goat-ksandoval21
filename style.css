@@ -29,7 +29,7 @@ div {
     left: 70px;
     top: -10px;
 } 
-.image1 {
+#image1 {
     width: 500px;
     height: 500px;
     position: relative;
