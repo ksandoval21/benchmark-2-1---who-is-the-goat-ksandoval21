@@ -134,7 +134,6 @@ div {
             flex: 1 1 150px;
             width: 450px;
             place-items: center;
-            position: relative;
             top: 50px;
         }
         #image2 {
