@@ -177,7 +177,9 @@ div {
             float:none;
             width: auto;
             display: grid;
-            place-items: center;
+            position: relative;
+            top: 100px;
+            
         }
         #image4 {
             float:none;
